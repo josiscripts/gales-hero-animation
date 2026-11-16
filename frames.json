@@ -1,0 +1,9 @@
+{
+  "count": 241,
+  "width": 1280,
+  "height": 720,
+  "format": "jpeg",
+  "pattern": "https://raw.githubusercontent.com/josiscripts/gales-hero-animation/main/frames/frame-{NNN}.jpg",
+  "first": 1,
+  "last": 241
+}
